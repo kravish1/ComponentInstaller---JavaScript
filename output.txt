@@ -1,0 +1,62 @@
+22
+Invalid Command
+DEPEND TELNET TCPIP NETCARD
+Dependency added
+DEPEND TCPIP NETCARD
+Dependency added
+DEPEND NETCARD TCPIP
+Dependency added
+DEPEND DNS TCPIP NETCARD
+Dependency added
+DEPEND BROWSER TCPIP HTML
+Dependency added
+INSTALL NETCARD
+Installing NETCARD
+Installed NETCARD
+INSTALL TELNET
+Installing TELNET
+Installed TELNET
+INSTALL foo
+Installing foo
+Installed foo
+REMOVE NETCARD
+Removed NETCARD
+INSTALL BROWSER
+Installing BROWSER
+Installed BROWSER
+INSTALL DNS
+Installing DNS
+Installed DNS
+LIST
+TELNET 
+TCPIP 
+NETCARD 
+DNS 
+BROWSER 
+foo 
+REMOVE TELNET
+Removed TELNET
+REMOVE NETCARD
+Cannot Remove NETCARD component is null or not installed
+REMOVE DNS
+Removed DNS
+REMOVE NETCARD
+Cannot Remove NETCARD component is null or not installed
+INSTALL NETCARD
+Installing NETCARD
+Installed NETCARD
+REMOVE TCPIP
+Cannot Remove TCPIP component is null or not installed
+REMOVE BROWSER
+Removed BROWSER
+REMOVE TCPIP
+Cannot Remove TCPIP component is null or not installed
+LIST
+TELNET 
+TCPIP 
+NETCARD 
+DNS 
+BROWSER 
+foo 
+END
+
